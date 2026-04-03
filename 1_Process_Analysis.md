@@ -15,6 +15,7 @@ I selected this article because it explains the importance of BPM as the foundat
 On the other hand, what was gained was knowledge and curiosity about digital twins creating real-time, simulation-ready models that allow processes to be monitored, predicted, and continuously improved using data-driven analysis.
 
 
+
 ## Artefact 2: Identifying and Managing Process Bottlenecks 
 ### Summary
 This diagram maps out the strategy from the video, focusing on spotting delays and identifying what's holding the process back. By making informed choices and taking targeted action, we can smooth out the workflow and cut down on waste, which ultimately makes the whole operation run more effectively from start to finish.
@@ -23,6 +24,8 @@ This diagram maps out the strategy from the video, focusing on spotting delays a
 
 ### Reflection 
 I have chosen this video to show that, even when a company has a strong team, delays in processes can still occur due to inefficient workflows. For example, requiring approvals from multiple people can slow down task completion and create bottlenecks. This reflects BPM concepts, where analysing flow helps identify where work is delayed and which constraints have the greatest impact on performance. It also highlights the importance of making timely decisions to resolve these issues. Additionally, continuous improvement is essential; the use of visual dashboards to monitor bottlenecks regularly supports ongoing optimisation. This aligns with the structured approach of Diagnostic, Decide, and Deliver as a continuous improvement cycle.
+
+
 
 ## Artefact 3: Root Cause Analysis Using Process Mining
 ### Summary 
@@ -35,6 +38,7 @@ I have chosen this article because it shows how process mining has evolved. Prev
 Finally, the article offers a plan for using data logs to identify and resolve the main issues that are holding a business back.
 
 
+
 ## Artefact 4: Business Process Improvement Flow Using BPM  
 ### Summary
 This diagram presents a structured Business Process Management (BPM) approach to improving process performance. It shows how processes begin with identifying and analysing the current workflow, followed by detecting bottlenecks and conducting root cause analysis. Based on this, solutions are designed and implemented, and performance is monitored using KPIs and dashboards. The process is continuous, ensuring ongoing improvement and optimisation of workflow efficiency and organisational performance (ABPMP International, 2019).
@@ -45,9 +49,10 @@ This diagram presents a structured Business Process Management (BPM) approach to
 Their information helped me adopt a holistic view, rather than perceiving these as isolated problems that require separate solutions. This approach incorporates key concepts, such as flow analysis, the identification of bottlenecks, and root cause analysis, to support effective decision-making. For instance, in the field of psychology, information silos between departments can disrupt process flows and lead to inefficiencies in decision-making. This changed my understanding of how things work by demonstrating that process improvement depends on analysing the entire workflow, improving coordination and continuously monitoring performance to achieve long-term efficiency and reliability.
 
 
+
 ### References
-ABPMP International 2019, Guide to the Business Process Management Common Body of Knowledge (BPM CBOK®), Version 4.0, Association of Business Process Management Professionals.
-Akinbowale, O.E., Zerihun, M.F. and Mashigo, P., 2026. Business process management framework: systematic review of the trends, potentials and future. Cogent Business & Management, 13(1), p.2627025.
-Erdogan, T. (2025). Process Mining for Root Cause Analysis: A Systematic Literature Review. Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi. doi: 10.21597/jist.1594801.
-Jk Michaels Institute 2023, Process bottlenecks: Spot them fast (before they cost you weeks), YouTube, viewed 3 April 2026, https://www.youtube.com/watch?v=1WheGsEDjH4
+- ABPMP International 2019, Guide to the Business Process Management Common Body of Knowledge (BPM CBOK®), Version 4.0, Association of Business Process Management Professionals.
+- Akinbowale, O.E., Zerihun, M.F. and Mashigo, P., 2026. Business process management framework: systematic review of the trends, potentials and future. Cogent Business & Management, 13(1), p.2627025.
+- Erdogan, T. (2025). Process Mining for Root Cause Analysis: A Systematic Literature Review. Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi. doi: 10.21597/jist.1594801.
+- Jk Michaels Institute 2023, Process bottlenecks: Spot them fast (before they cost you weeks), YouTube, viewed 3 April 2026, https://www.youtube.com/watch?v=1WheGsEDjH4
 
