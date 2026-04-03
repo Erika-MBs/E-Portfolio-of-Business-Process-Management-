@@ -56,3 +56,12 @@ Their information helped me adopt a holistic view, rather than perceiving these 
 - Erdogan, T. (2025). Process Mining for Root Cause Analysis: A Systematic Literature Review. Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi. doi: 10.21597/jist.1594801.
 - Jk Michaels Institute 2023, Process bottlenecks: Spot them fast (before they cost you weeks), YouTube, viewed 3 April 2026, https://www.youtube.com/watch?v=1WheGsEDjH4
 
+## Evidence of Original Work Checklist
+
+- [x] Personal reflections written in my own voice, demonstrating what I learned and how my understanding developed  
+- [x] Examples tailored to my context, including foreign trade operations and psychology industry scenarios  
+- [x] Annotations and explanations linking artefacts to Business Process Management (BPM) concepts  
+- [x] Citations and references included to support analysis and academic claims  
+- [x] Multimedia elements created, including process diagrams and visual representations  
+- [ ] Screenshots or notes from my process (e.g., brainstorming or mind maps)
+
