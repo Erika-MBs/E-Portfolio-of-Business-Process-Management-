@@ -7,6 +7,8 @@
 ## Artefact 1: BPM Frameworks for Process Improvement 
 ### Summary
 This article provides a systematic review of business process management (BPM) frameworks and their applications for improving organisational performance. It analyses current BPM frameworks and examines how these facilitate process management, whilst also highlighting challenges such as process complexity and a lack of alignment with business objectives. It also explains how business process management (BPM) is evolving towards technology-driven approaches, enabling accurate analysis (Akinbowale et al., 2026, pp. 1–3, 13–15).
+
+![Artefact 1](images/artefact1.png)
  
 ### Reflection 
 I selected this article because it explains the importance of BPM as the foundation for improving and analysing processes. It helped me understand how BPM identifies inefficiencies and delays while supporting more accurate and reliable processes. In foreign trade operations, this is important because delays in documentation, customs clearance, and coordination between stakeholders can affect performance.
