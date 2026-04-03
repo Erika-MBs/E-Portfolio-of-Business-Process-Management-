@@ -19,12 +19,16 @@ On the other hand, what was gained was knowledge and curiosity about digital twi
 ### Summary
 This diagram maps out the strategy from the video, focusing on spotting delays and identifying what's holding the process back. By making informed choices and taking targeted action, we can smooth out the workflow and cut down on waste, which ultimately makes the whole operation run more effectively from start to finish.
 
+![Artefact 2](images/artefact2.png)
+
 ### Reflection 
 I have chosen this video to show that, even when a company has a strong team, delays in processes can still occur due to inefficient workflows. For example, requiring approvals from multiple people can slow down task completion and create bottlenecks. This reflects BPM concepts, where analysing flow helps identify where work is delayed and which constraints have the greatest impact on performance. It also highlights the importance of making timely decisions to resolve these issues. Additionally, continuous improvement is essential; the use of visual dashboards to monitor bottlenecks regularly supports ongoing optimisation. This aligns with the structured approach of Diagnostic, Decide, and Deliver as a continuous improvement cycle.
 
 ## Artefact 3: Root Cause Analysis Using Process Mining
 ### Summary 
 This article reviews how companies use data to find the real reasons behind business problems. By combining process mining with root cause analysis, organizations can move from spotting delays to fixing their actual sources. While new AI helps, human expertise remains vital for solving complex issues and improving overall performance(Erdogan, 2025, p. 765, 767).
+
+![Artefact 3](images/artefact3.png)
  
 ### Reflection
 I have chosen this article because it shows how process mining has evolved. Previously, it was only used to map out how work is carried out, but now it is used to solve problems. By incorporating ‘root cause analysis’, it not only shows what went wrong, but also explains why it happened. A key point is that, even with new smart technologies (such as AI), we still need human experts to understand the data a view I support.
@@ -34,6 +38,8 @@ Finally, the article offers a plan for using data logs to identify and resolve t
 ## Artefact 4: Business Process Improvement Flow Using BPM  
 ### Summary
 This diagram presents a structured Business Process Management (BPM) approach to improving process performance. It shows how processes begin with identifying and analysing the current workflow, followed by detecting bottlenecks and conducting root cause analysis. Based on this, solutions are designed and implemented, and performance is monitored using KPIs and dashboards. The process is continuous, ensuring ongoing improvement and optimisation of workflow efficiency and organisational performance (ABPMP International, 2019).
+
+![Artefact 4](images/artefact4.png)
 
 ### Reflection 
 Their information helped me adopt a holistic view, rather than perceiving these as isolated problems that require separate solutions. This approach incorporates key concepts, such as flow analysis, the identification of bottlenecks, and root cause analysis, to support effective decision-making. For instance, in the field of psychology, information silos between departments can disrupt process flows and lead to inefficiencies in decision-making. This changed my understanding of how things work by demonstrating that process improvement depends on analysing the entire workflow, improving coordination and continuously monitoring performance to achieve long-term efficiency and reliability.
