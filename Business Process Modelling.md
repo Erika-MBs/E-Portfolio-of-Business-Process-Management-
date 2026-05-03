@@ -11,3 +11,13 @@ The use of BPMN is appropriate because it provides a standard notation that is w
 
 
 This artefact is relevant to Business Process Management as it supports process analysis and improvement. It also demonstrates my understanding of process modelling concepts and my ability to apply BPMN tools to represent real-world scenarios in a clear and logical manner.
+
+
+### Artefact Description & Justification (TO-BE Model)
+
+
+This artefact presents the TO-BE BPMN diagram, which represents the improved version of the selected business process. The redesigned model introduces automation, clearer task allocation, and better coordination between actors. These changes aim to reduce delays and improve overall process efficiency.
+
+The use of BPMN in this artefact is important because it allows the improved process to be visualised in a structured and standardised way. Compared to the AS-IS model, the TO-BE diagram removes unnecessary steps and simplifies decision points, making the workflow more efficient and easier to understand.
+
+This artefact demonstrates my ability to analyse an existing process and propose meaningful improvements. It reflects key BPM principles such as process optimisation, efficiency, and continuous improvement, which are essential for enhancing organisational performance.
