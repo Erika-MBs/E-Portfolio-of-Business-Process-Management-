@@ -20,6 +20,7 @@ I chose this resource because it allowed me to deepen my understanding of BPMN a
 This artefact is a Six Sigma website that explains SIPOC as a high-level process mapping tool. It describes the main elements: Supplier, Input, Process, Output, and Customer. The resource explains how SIPOC helps define process scope and boundaries before developing more detailed models (Six Sigma, 2025).
 
 ![Artefact 2](images/SIPOC_ART_2.png)
+
 *Figure 2: SIPOC diagram illustrating suppliers, inputs, process, outputs, and customers in a business process (Author’s own work, 2026).*
 
 **Reflection**
@@ -31,6 +32,7 @@ I chose this artefact because it made me realise that SIPOC is not only effectiv
 This artefact is a Week 7 lecture slide about Business Architecture. It explains Business Architecture as the formal documentation of an organisation’s core processes, roles, responsibilities, and value chains. The slide shows that business processes should not be viewed separately, but as connected parts of a wider organisational structure (COIT20252, 2026 p.15).
 
 ![Artefact 3](images/business_architecture_art_3.png)
+
 *Figure 3: Business Architecture alignment to strategy showing Phase 1 and Phase 2 activities, including business context, needs analysis, and enterprise value analysis (ABPMP International, 2019, p. 211, cited in COIT20252 Week 7 Lecture, 2026).*
 
 **Reflection**
