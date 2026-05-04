@@ -15,7 +15,7 @@
   I chose this resource because it allowed me to deepen my understanding of BPMN as a common modelling language for various stakeholders, including business users, IT teams, and accounting staff. It helped me realise that BPMN is not only useful for mapping out a process, but also for understanding where each participant fits within the workflow. By using standard symbols, BPMN makes it easier to identify bottlenecks, redundant steps, and areas where the current process can be improved. All of this makes the resource one of the most widely used tools, as it demonstrates how visual models support communication, analysis, and process optimisation (Lucid Software, 2025).
   
   
-  ## Artefact 2 – SIPOC 
+  ## Artefact 2 – SIPOC (Article)
   **Description**
   This artefact is a Six Sigma website that explains SIPOC as a high-level process mapping tool. It describes the main elements: Supplier, Input, Process, Output, and Customer. The resource explains how SIPOC helps define process scope and boundaries before developing more detailed models (Six Sigma, 2025).
   
