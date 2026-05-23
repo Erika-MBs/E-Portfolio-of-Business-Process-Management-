@@ -10,6 +10,7 @@
   This resource is a UiPath video demonstrating a process for automating invoice approval. The workflow includes uploading invoices, extracting data from them, an AI-based decision agent, and human approval or review before the process continues. It shows that automation works better when the business process is clear and well organised first.
 
 ![Artefact 1](images/artefact-1.png)
+
 ***Figure 1: UiPath invoice approval workflow using RPA, AI decision support and human review.***<br>
 ***Source: Stratvert (2026, 51:00).***
 
@@ -24,6 +25,7 @@ I chose this video because it helped me connect RPA with BPM in a practical way.
   This artefact is a process cybersecurity figure from (Raptaki, Stergiopoulos and Gritzalis, 2025, pag 5) It shows how event logs are analysed through process mining to create dependency graphs and identify critical activities after a cybersecurity incident. 
   
   ![Artefact 2](images/artefact-2.png)
+  
 ***Figure 2: Methodology for process mining and cybersecurity impact analysis***<br>
 ***Source: Raptaki, Stergiopoulos and Gritzalis (2025, p. 5).***
 
@@ -36,6 +38,7 @@ I chose this video because it helped me connect RPA with BPM in a practical way.
 This artefact is from  lecture slide on why RPA implementations may fail and how businesses can boost RPA success. (CQUniversity, 2026, p. 22).
 
   ![Artefact 3](images/artefact-3.png)
+  
 ***Figure 3: Reasons for RPA deployment failure and best practices for RPA success.***<br>
 ***Source: CQUniversity (2026, p. 22).***
 
@@ -49,7 +52,7 @@ This artefact is from  lecture slide on why RPA implementations may fail and how
   **Description**
   This artefact is my personal workflow diagram describing how RPA could support an IT support ticket process. The diagram illustrates how a bot can read a ticket, classify the request, determine if it is low risk or security sensitive, update the ticket status, and save an audit log. It also includes cyber security controls such as identity verification, access restriction, monitoring and audit recording.
   
- 
+  ![Artefact 3](images/artefact-4.png)
 
 ***Figure 4: Self-developed IT support ticket workflow using RPA and cybersecurity controls.***<br>
 ***Source: Author’s own work, created using ChatGPT image generation.***
@@ -58,7 +61,6 @@ This artefact is from  lecture slide on why RPA implementations may fail and how
   I opted to develop this artefact because it helped me to integrate RPA and cybersecurity in another business process. I realised that even while automation is wonderful for simple and repetitive requests, security sensitive tasks should always be human reviewed. This relates to BPM in that a process should not just be faster, it also must be managed, traceable and safe for the organisation.
 
 
- ![Artefact 3](images/artefact-4.png)
 ### References
 -CQUniversity 2026, ‘Week 8: process technologies, robotic process automation and process cybersecurity’, PowerPoint presentation, COIT20252 Business Process Management, CQUniversity, viewed 19 May 2026, http://moodle.cqu.edu.au/
 
