@@ -24,7 +24,7 @@ I chose this video because it helped me connect RPA with BPM in a practical way.
   This artefact is a process cybersecurity figure from (Raptaki, Stergiopoulos and Gritzalis, 2025, pag 5) It shows how event logs are analysed through process mining to create dependency graphs and identify critical activities after a cybersecurity incident. 
   
   ![Artefact 2](images/artefact-2.png)
-***Figure 2: Methodology for process mining and cybersecurity impact analysis***
+***Figure 2: Methodology for process mining and cybersecurity impact analysis***<br>
 ***Source: Raptaki, Stergiopoulos and Gritzalis (2025, p. 5).***
 
   **Reflection**
@@ -36,7 +36,7 @@ I chose this video because it helped me connect RPA with BPM in a practical way.
 This artefact is from  lecture slide on why RPA implementations may fail and how businesses can boost RPA success. (CQUniversity, 2026, p. 22).
 
   ![Artefact 3](images/artefact-3.png)
-***Figure 3: Reasons for RPA deployment failure and best practices for RPA success.***
+***Figure 3: Reasons for RPA deployment failure and best practices for RPA success.***<br>
 ***Source: CQUniversity (2026, p. 22).***
 
   **Reflection**
@@ -51,7 +51,7 @@ This artefact is from  lecture slide on why RPA implementations may fail and how
   
   ![Artefact 3](images/artefact-4.png)
 
-***Figure 4: Self-developed IT support ticket workflow using RPA and cybersecurity controls.***
+***Figure 4: Self-developed IT support ticket workflow using RPA and cybersecurity controls.***<br>
 ***Source: Author’s own work, created using ChatGPT image generation.***
 
   **Reflection**
