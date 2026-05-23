@@ -61,7 +61,9 @@ This artefact is from  lecture slide on why RPA implementations may fail and how
 
 ### References
 -CQUniversity 2026, ‘Week 8: process technologies, robotic process automation and process cybersecurity’, PowerPoint presentation, COIT20252 Business Process Management, CQUniversity, viewed 19 May 2026, http://moodle.cqu.edu.au/
+
 -Raptaki, M, Stergiopoulos, G & Gritzalis, D 2025, ‘Automated cybersecurity impact propagation across business processes using process mining techniques’, International Journal of Information Security, vol. 24, article no. 129. DOI: 10.1007/s10207-025-01040-0
+
 -Stratvert, K 2026, Build your first UiPath automation (AI + RPA + human approval), video, YouTube, viewed 20 May 2026, https://www.youtube.com/watch?v=p0AfPMV3BWw
 
 ## Evidence of Original Work Checklist
