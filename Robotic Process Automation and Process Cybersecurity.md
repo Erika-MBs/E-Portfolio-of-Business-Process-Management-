@@ -52,6 +52,7 @@ Source: CQUniversity (2026, p. 22).***
   ![Artefact 3](images/artefact-4.png)
 
 ***Figure 4: Self-developed IT support ticket workflow using RPA and cybersecurity controls.
+
 Source: Author’s own work, created using ChatGPT image generation.***
 
   **Reflection**
