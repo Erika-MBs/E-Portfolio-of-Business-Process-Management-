@@ -11,6 +11,7 @@
 
 ![Artefact 1](images/artefact-1.png)
 ***Figure 1: UiPath invoice approval workflow using RPA, AI decision support and human review.***
+
 ***Source: Stratvert (2026, 51:00:00).***
 
   
