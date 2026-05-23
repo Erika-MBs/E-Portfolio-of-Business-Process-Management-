@@ -11,7 +11,7 @@
 
 ![Artefact 1](images/artefact-1.png)
 ***Figure 1: UiPath invoice approval workflow using RPA, AI decision support and human review.
-Source: Stratvert (2026, 51:00:00).****
+Source: Stratvert (2026, 51:00:00).***
 
   
   **Reflection**
@@ -50,6 +50,7 @@ Source: CQUniversity (2026, p. 22).***
   This artefact is my personal workflow diagram describing how RPA could support an IT support ticket process. The diagram illustrates how a bot can read a ticket, classify the request, determine if it is low risk or security sensitive, update the ticket status, and save an audit log. It also includes cyber security controls such as identity verification, access restriction, monitoring and audit recording.
   
   ![Artefact 3](images/artefact-4.png)
+
 ***Figure 4: Self-developed IT support ticket workflow using RPA and cybersecurity controls.
 Source: Author’s own work, created using ChatGPT image generation.***
 
