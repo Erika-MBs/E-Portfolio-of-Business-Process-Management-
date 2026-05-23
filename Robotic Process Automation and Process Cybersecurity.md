@@ -8,7 +8,7 @@
   ## Artefact 1: Build Your First UiPath Automation:AI + RPA + Human Approval(Video)
   **Description**
   This resource is a UiPath video demonstrating a process for automating invoice approval. The workflow includes uploading invoices, extracting data from them, an AI-based decision agent, and human approval or review before the process continues. It shows that automation works better when the business process is clear and well organised first.
-![Artefact 1](images/artefact 1.png).
+![Artefact 1](images/artefact 1.png)
 ***Figure 1: UiPath invoice approval workflow using RPA, AI decision support and human review.
 Source: Stratvert (2026, 51:00:00).****
 
