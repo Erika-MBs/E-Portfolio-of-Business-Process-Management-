@@ -81,6 +81,7 @@ This artefact is from  lecture slide on why RPA implementations may fail and how
  ![PICTURE](images/learningsupport1.jpeg)
 
  ![PICTURE](images/learningsupport2.jpeg)
-
+*Figure 5: Personal planning notes for the RPA invoice automation artefact.*  
+*Source: Created by Erika Macias.*
 
 
