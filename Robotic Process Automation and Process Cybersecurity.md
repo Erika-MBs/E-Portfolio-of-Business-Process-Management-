@@ -49,7 +49,7 @@ This artefact is from  lecture slide on why RPA implementations may fail and how
   **Description**
   This artefact is my personal workflow diagram describing how RPA could support an IT support ticket process. The diagram illustrates how a bot can read a ticket, classify the request, determine if it is low risk or security sensitive, update the ticket status, and save an audit log. It also includes cyber security controls such as identity verification, access restriction, monitoring and audit recording.
   
-  ![Artefact 3](images/artefact-4.png)
+ 
 
 ***Figure 4: Self-developed IT support ticket workflow using RPA and cybersecurity controls.***<br>
 ***Source: Author’s own work, created using ChatGPT image generation.***
@@ -58,7 +58,7 @@ This artefact is from  lecture slide on why RPA implementations may fail and how
   I opted to develop this artefact because it helped me to integrate RPA and cybersecurity in another business process. I realised that even while automation is wonderful for simple and repetitive requests, security sensitive tasks should always be human reviewed. This relates to BPM in that a process should not just be faster, it also must be managed, traceable and safe for the organisation.
 
 
-
+ ![Artefact 3](images/artefact-4.png)
 ### References
 -CQUniversity 2026, ‘Week 8: process technologies, robotic process automation and process cybersecurity’, PowerPoint presentation, COIT20252 Business Process Management, CQUniversity, viewed 19 May 2026, http://moodle.cqu.edu.au/
 
@@ -76,6 +76,9 @@ This artefact is from  lecture slide on why RPA implementations may fail and how
 - [x] Screenshots or notes from my process (e.g., brainstorming or mind maps)
 
 
+ ![PICTURE](images/learningsupport1.jpeg)
+
+ ![PICTURE](images/learningsupport2.jpeg)
 
 
 
